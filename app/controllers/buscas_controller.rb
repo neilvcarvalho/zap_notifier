@@ -1,0 +1,2 @@
+class BuscasController < ApplicationController
+end

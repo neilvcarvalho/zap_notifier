@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  valor: 1
+  data_publicacao: 2012-06-24
+  id_zap: 1
+
+two:
+  valor: 1
+  data_publicacao: 2012-06-24
+  id_zap: 1
